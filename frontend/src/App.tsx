@@ -14,7 +14,8 @@ import Plastic from "./pages/Plastic";
 import Rewards from "./pages/Rewards";
 import AdminDashboard from "./pages/admin/AdminDashboard";
 import NotFound from "./pages/NotFound";
-import ProtectedRoute from "./components/ProtectedRoute"; // ✅ Ye naya import hai
+import ProtectedRoute from "./components/ProtectedRoute"; 
+import VendingMachine from "./pages/VendingMachine";
 
 const queryClient = new QueryClient();
 
@@ -90,6 +91,10 @@ const App = () => (
 
           {/* 404 Page */}
           <Route path="*" element={<NotFound />} />
+          <Route
+            path="/vending-machine"
+            element={<VendingMachine />}
+          />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>
