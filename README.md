@@ -1,6 +1,8 @@
 # 🌱 EcoTrack – Personal Climate Credit System  
 ### Team_Eternum_-HackNITR-
 
+> *Building habits today for a sustainable tomorrow* 🌍
+
 ---
 
 ## 👥 Team Name
@@ -9,40 +11,51 @@
 ---
 
 ## 🚀 About the Team
-💡 **Madhu Sailesh Sasamal**  
-💡 **Adarsh Raj**  
-💡 **Ronak Kumar Sahu**  
-💡 **Bhumik Desai**
 
-**Team Eternum** is a passionate and collaborative group of developers formed for **HackNITR**.  
-We believe in building **impact-driven, scalable, and socially relevant solutions** that address real-world problems.
+**Team Eternum** is a passionate and collaborative group of developers participating in **HackNITR**.  
+We focus on building **impact-driven, scalable, and socially relevant solutions** that address real-world challenges.
 
-Our core strengths:
-- Strong problem-solving mindset
-- Clean and efficient development
-- Clear division of responsibilities
-- Innovation under time constraints
+### 👨‍💻 Team Members
+- **Madhu Sailesh Sasamal**
+- **Adarsh Raj**
+- **Ronak Kumar Sahu**
+- **Bhumik Desai**
+
+### 🔑 Our Strengths
+- Strong problem-solving mindset  
+- Clean and efficient development practices  
+- Clear role distribution  
+- Innovation under time constraints  
 
 ---
 
 ## 🛠️ Hackathon Details
+
 - **Event:** HackNITR  
-- **Theme:** 🌍 **Climate & Sustainability**  
-- **Project Title:** **EcoTrack – Personal Climate Credit System**
+- **Theme:** 🌍 *Climate & Sustainability*  
+- **Project:** **EcoTrack – Personal Climate Credit System**
 
 ---
 
 ## 🎯 Problem Statement
-Climate change is a global crisis, but **individual participation in sustainable practices is low** due to lack of motivation, incentives, and measurable impact.
 
-Most existing solutions only **track carbon footprints** — they do not **encourage or reward behavioral change**.
+Climate change is a global crisis, yet **individual participation in sustainable practices remains low**.
+
+### Why?
+- Lack of motivation  
+- No direct incentives  
+- Difficulty measuring personal impact  
+
+Most existing platforms **only track carbon footprints** —  
+they fail to **reward or encourage real behavioral change**.
 
 ---
 
 ## 💡 Our Solution – EcoTrack
-**EcoTrack** is a **reward-based sustainability platform** that motivates users to adopt eco-friendly habits by converting their daily actions into **Climate Credits**. HERE CREDITS = POINTS
 
-Instead of penalties or restrictions, EcoTrack uses **positive reinforcement and gamification** to promote sustainable behavior.
+**EcoTrack** is a **reward-based sustainability platform** that converts daily eco-friendly actions into **Climate Credits (Points)**.
+
+Instead of penalties, EcoTrack uses **positive reinforcement, transparency, and gamification** to drive long-term sustainable habits.
 
 > **“We don’t just track sustainability — we reward it.”**
 
@@ -51,83 +64,97 @@ Instead of penalties or restrictions, EcoTrack uses **positive reinforcement and
 ## 🌱 Key Features
 
 ### 📊 Dashboard
-- Total Climate Credits earned
-- CO₂ reduction summary
-- Activity history
-- Current Streak
+- Total Climate Credits earned  
+- Estimated CO₂ reduction  
+- Activity history  
+- Current sustainability streak  
 
 ---
 
 ### 🚶 Walking Credits
-- Users earn points for choosing walking over motor vehicles
-- Points are calculated using CO₂ avoidance logic
+- Earn points for choosing walking over motor vehicles  
+- Distance calculated using real road data  
+- Credits based on CO₂ avoidance logic  
 
 ---
 
 ### 🌳 Tree Plantation Credits
-- Points are awarded in **stages**:
-  - Sapling planted
-  - Survival confirmation
-- Encourages **real and sustainable tree growth**, not symbolic actions
+Credits are awarded in **stages** to ensure real impact:
+1. Sapling planted  
+2. Survival confirmation  
+
+This prevents symbolic participation and promotes **actual tree growth**.
 
 ---
 
 ### 🚌 Public Transport Credits
-- Rewards users for choosing buses.
-- Includes basic verification logic to prevent misuse
+- Rewards for choosing buses over private vehicles  
+- Includes basic verification logic to prevent misuse  
 
 ---
 
 ### ♻️ Plastic Bottle Collection
-- Credits for collecting and recycling plastic bottles
-- Credits are added via inputing the 6 digit Code from Vendor Machine
-- Promotes reduction of plastic pollution
-- Encourages responsible waste management
+- Earn credits by recycling plastic bottles  
+- Credits added via **6-digit vendor machine code**  
+- Encourages responsible waste management  
+- Helps reduce plastic pollution  
 
 ---
 
-## 🏛️ System Vision(Future)
-EcoTrack follows a **sustainability model**:
+## 🏛️ System Vision (Future-Ready)
 
-- **Central Authority (Conceptual):** Government-level standards and policies  
+EcoTrack is designed for **scalable adoption** using a layered sustainability model:
+
+- **Central Authority (Conceptual):** Government-level policies & standards  
 - **Local Admin:** Campus / organization / community  
-- **Users:** Citizens, students, and individuals  
+- **Users:** Students, citizens, individuals  
 
-This structure ensures **scalability, transparency, and policy alignment**.
+This ensures **policy alignment, transparency, and scalability**.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Frontend
-- HTML  
-- CSS  
-- JavaScript / React  
+### 🖥️ Frontend
+- React + TypeScript  
+- Tailwind CSS  
+- ShadCN UI  
 
-### Backend
-- Express.js/ Node.js (as applicable)
+### 🗺️ Maps & Location
+- OpenStreetMap  
+- Nominatim API (place search)  
+- OSRM (real road distance calculation)  
 
-### Tools & Platforms
-- Git & GitHub  
-- VS Code  
+### 📷 QR & Utilities
+- `qrcode` library  
+- Browser GPS & Camera APIs  
+
+### 🤖 AI (Optional / Future Scope)
+- Gemini / Vision models for tree verification  
+
+### ✅ Why This Stack?
+- 100% open-source  
+- Zero cost  
+- Hackathon & startup-friendly  
 
 ---
 
 ## 🎯 Impact
+
 EcoTrack aims to:
-- Encourage daily eco-friendly habits
-- Build long-term sustainable behavior
-- Enable data-driven climate impact tracking
-- Support community and campus-level sustainability initiatives
+- Encourage daily eco-friendly habits  
+- Build long-term sustainable behavior  
+- Provide data-driven climate impact tracking  
+- Support campus & community sustainability initiatives  
 
 ---
 
 ## 🔮 Future Scope
-- Integration with smart city initiatives
-- NGO & CSR partnerships
-- Government-backed climate incentive programs
-- Mobile app deployment
-- Advanced analytics & reporting dashboards
+- Smart city integration  
+- NGO & CSR partnerships  
+- Government-backed incentive programs  
+- Mobile app deployment  
+- Advanced analytics & reporting dashboards  
 
 ---
 
@@ -135,17 +162,16 @@ EcoTrack aims to:
 - Collaboration over competition  
 - Innovation with responsibility  
 - Consistency in execution  
-- Growth through learning  
+- Growth through continuous learning  
 
 ---
 
 ## 📄 Repository Notes
-This repository contains:
-- Source code
-- Documentation
-  
+This repository includes:
+- Complete source code  
+- Project documentation  
+
 ---
 
-### 💪 Built with dedication by **Team_Eternum_-HackNITR-**  
-### 🌍 *Building habits today for a sustainable tomorrow*
-
+## 💪 Built with dedication by **Team_Eternum_-HackNITR-**  
+### 🌍 *Together, building a greener and more responsible future*
