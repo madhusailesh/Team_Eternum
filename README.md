@@ -1,25 +1,23 @@
-# 🌱 EcoTrack – Personal Climate Credit System  
-### Team_Eternum_-HackNITR-
+# 🌱 EcoTrack – Personal Climate Credit System 
 
 > *Building habits today for a sustainable tomorrow* 🌍
 
 ---
 
 ## 👥 Team Name
-**Team_Eternum_-HackNITR-**
+**Team_codesprinters-**
 
 ---
 
 ## 🚀 About the Team
 
-**Team Eternum** is a passionate and collaborative group of developers participating in **HackNITR**.  
+**Team_codesprinters ** is a passionate and collaborative group of developers participating in **hack2skill**.  
 We focus on building **impact-driven, scalable, and socially relevant solutions** that address real-world challenges.
 
 ### 👨‍💻 Team Members
 - **Madhu Sailesh Sasamal**
-- **Adarsh Raj**
-- **Ronak Kumar Sahu**
-- **Bhumik Desai**
+- **piush mishra**
+
 
 ### 🔑 Our Strengths
 - Strong problem-solving mindset  
@@ -31,8 +29,8 @@ We focus on building **impact-driven, scalable, and socially relevant solutions*
 
 ## 🛠️ Hackathon Details
 
-- **Event:** HackNITR  
-- **Theme:** 🌍 *Climate & Sustainability*  
+- 
+- **Theme:** 🌍 *Climate & Sustainability open innovation*   
 - **Project:** **EcoTrack – Personal Climate Credit System**
 
 ---
